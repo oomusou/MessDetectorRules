@@ -1,1 +1,1 @@
-Mess Detecter Rules
+Mess Detector Rules
